@@ -1,9 +1,18 @@
-# My Tutorial
+# Test
+
+## Introduction
+
+Let's get started!
 
 ## Step 1
 
-Here is some text.
+Place the ``||agent:agent teleport to player||`` block in the ``||loops:on start||`` slot to teleport your agent to you.
+
+```blocks
+agent.teleportToPlayer()
+loops.onStart()
+```
 
 ## Step 2
 
-Congratulations, you did it!
+Click the Play Arrow to load your code into the agent!
